@@ -46,4 +46,5 @@ Courses: Quantum Mechanics, Mathematical Methods in the Physical Sciences<br/>
 
 [Github](https://github.com/jianwenl/)
 [Linkedin](https://www.linkedin.com/in/jianwen-liu-32541266/)
+[Email](mailto:jl147@iu.edu)
 
