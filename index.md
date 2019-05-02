@@ -32,9 +32,9 @@ Courses: Quantum Mechanics, Mathematical Methods in the Physical Sciences<br/>
 
 - **[Natrual Language Processing](https://github.com/jianwenl/NLP)**  <br/>
 
-- **[Data Pipeline](Report for ProjectA： Twitter Analysis.pdf)** <br/>
+- **[Data Pipeline](https://github.com/jianwenl/Big-Data/blob/master/Report%20for%20ProjectA%EF%BC%9A%20Twitter%20Analysis.pdf)** <br/>
 
-- **[Network Analysis](Report for ProjectB： Book Analysis.pdf)**  <br/>
+- **[Network Analysis](https://github.com/jianwenl/Big-Data/blob/master/Report%20for%20ProjectB%EF%BC%9A%20Book%20Analysis.pdf)**  <br/>
 
 - **[Machine Learning](https://github.com/jianwenl/Machine-Learning)** <br/>
 
