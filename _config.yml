@@ -1,5 +1,8 @@
 title: Jianwen
-
+description: My B.S. and Ph.D.research experience include analyzing data for solving optimization problems ranging from physics to economics. Now passionate about data science and cloud computing.
 # Build settings
 theme: jekyll-theme-minimal
 
+logo: [Location of the logo]
+show_downloads: "true"
+lnikedin_user: in/jianwen-liu-32541266/
