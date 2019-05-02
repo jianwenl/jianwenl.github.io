@@ -2,7 +2,7 @@
 
 ## Education
 
-- Indiana University Bloomington Bloomington, IN, United States <br/>**M.S. in Data Science** _Aug 2020_ <br/>
+- Indiana University Bloomington <p align="right">Bloomington, IN, United States <br/>**M.S. in Data Science** _Aug 2020_ </p><br/>
 Courses: Algorithms, Advanced Database Concept, Machine Learning, Deep Learning in NLP<br/>
 
 - Beijing Jiaotong University Beijing, China <br/>**Ph.D. in Economics** _Dec 2017_<br/>
