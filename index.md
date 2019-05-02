@@ -39,6 +39,6 @@ Courses: Algorithms, Advanced Database Concept, Machine Learning, Deep Learning 
 
 ### Contact
 
-[Github](https://github.com/jianwenl/) 
+![Github](https://camo.githubusercontent.com/cbc3d1c64e7c483c9142965a9c5a64b328d8477d/68747470733a2f2f63646e2e7261776769742e636f6d2f6d6d697374616b65732f6a656b796c6c2d7468656d652d6261736963616c6c792d62617369632f6d61737465722f5f696e636c756465732f69636f6e2d6c696e6b6564696e2e737667)(https://github.com/jianwenl/) 
 [Linkedin](https://www.linkedin.com/in/jianwen-liu-32541266/)
 
