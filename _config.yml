@@ -1,2 +1,10 @@
 theme: jekyll-theme-minimal
-linkedin_username: in/jianwen-liu-32541266
+
+
+footer-links:
+  email:yaliallen@hotmail.con
+  facebook:
+  github: barryclark/jekyll-now
+  linkedin:in/jianwen-liu-32541266
+  rss: # just type anything here for a working RSS icon
+  twitter: jekyllrb
