@@ -25,16 +25,14 @@ Courses: Algorithms, Advanced Database Concept, Machine Learning, Deep Learning 
 
 ## Project
 
-- **Natrual Language Processing**  <br/>
+- **[Natrual Language Processing](https://github.com/jianwenl/NLP)**  <br/>
 
-- **Data Pipeline** <br/>
+- **[Data Pipeline](Report for ProjectA： Twitter Analysis.pdf)** <br/>
 
-- **Network Analysis**  <br/>
+- **[Network Analysis](Report for ProjectB： Book Analysis.pdf)**  <br/>
 
-- **Machine Learning** <br/>
+- **[Machine Learning](https://github.com/jianwenl/Machine-Learning)** <br/>
 
-
-[Link](url) and 
 
 ![Image](src)
 
