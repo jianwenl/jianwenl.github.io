@@ -4,4 +4,11 @@ description: My B.S. and Ph.D.research experience include analyzing data for sol
 theme: jekyll-theme-minimal
 
 
-linkedin_user: in/jianwen-liu-32541266/
+{% if site.twitter_username %}
+  <li>
+    <a href="https://twitter.com/{{ site.jianwenallen }}">
+      <i class="fa fa-twitter"></i> Twitter
+    </a>
+  </li>
+{% endif %}
+
