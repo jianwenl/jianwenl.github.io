@@ -30,7 +30,7 @@ Courses: Quantum Mechanics, Mathematical Methods in the Physical Sciences<br/>
 
 ## Project
 
-- **[Natrual Language Processing](https://github.com/jianwenl/NLP)**  <br/>
+- **[Natural Language Processing](https://github.com/jianwenl/NLP)**  <br/>
 
 - **[Data Pipeline](https://github.com/jianwenl/Big-Data/blob/master/Report%20for%20ProjectA%EF%BC%9A%20Twitter%20Analysis.pdf)** <br/>
 
