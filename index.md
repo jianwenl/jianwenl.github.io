@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# Jianwen Liu's Website
 
-You can use the [editor on GitHub](https://github.com/jianwenl/jianwenl.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Education
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Indiana University Bloomington Bloomington, IN, United States <br/>**M.S. in Data Science** _Aug 2020_ <br/>
+Courses: Algorithms, Advanced Database Concept, Machine Learning, Deep Learning in NLP<br/>
 
-### Markdown
+- Beijing Jiaotong University Beijing, China <br/>**Ph.D. in Economics** _Dec 2017_<br/>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Simon Fraser University Burnaby, BC, Canada <br/> **Visiting Ph.D. in Economics** _Sep 2016_<br/>
 
-```markdown
-Syntax highlighted code block
+- Beijing Jiaotong University Beijing, China <br/> **B.S. in Science and Technology of Optical Information (Physics)** _Jul 2012_<br/>
 
-# Header 1
-## Header 2
-### Header 3
+## Skills
 
-- Bulleted
-- List
+- **Programming Languages:**  Python, Java, C, R, JavaScript
 
-1. Numbered
-2. List
+- **Data Analysis & Machine Learning:** NumPy, Pandas, Scipy, Scikit-Learn, Keras, Tensorflow, Pytorch <br/>
 
-**Bold** and _Italic_ and `Code` text
+- **Natural Language Processing:** NLTK, spaCy, Stanford CoreNLP <br/>
 
-[Link](url) and ![Image](src)
-```
+- **Database:** MySQL, PostgreSQL, NoSQL (MongoDB, Neo4j)<br/>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- **Techniques:** Linux, Git, Maven, Docker, Hadoop Ecosystem (Hadoop, HDFS, Apache Spark), A/B testing, D3.js, ggplot2, Tableau <br/>
 
-### Jekyll Themes
+## Project
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jianwenl/jianwenl.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- **Natrual Language Processing**  <br/>
 
-### Support or Contact
+- **Data Pipeline** <br/>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- **Network Analysis**  <br/>
+
+- **Machine Learning** <br/>
+
+
+[Link](url) and 
+
+![Image](src)
+
+
+### Contact
+
+[Github](https://github.com/jianwenl/) 
+[Linkedin](https://www.linkedin.com/in/jianwen-liu-32541266/)
+
