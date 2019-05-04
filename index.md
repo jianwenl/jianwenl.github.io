@@ -10,7 +10,7 @@ Research Interest: Informational Choice, Macro Finance<br/>
 Thesis: [Thesis on effect of central bank communication to Social welfare](http://cdmd.cnki.com.cn/Article/CDMD-10004-1018082148.htm)<br/>
 
 - Simon Fraser University    Burnaby, BC, Canada <br/> **Visiting Ph.D. in Economics** _Sep 2016_<br/>
-Advisor: [Ken Kasa](http://www.sfu.ca/~kkasa/)
+Advisor: [Kenneth Kasa](http://www.sfu.ca/~kkasa/)
 
 - Beijing Jiaotong University    Beijing, China <br/> **B.S. in Science and Technology of Optical Information (Physics)** _Jul 2012_<br/>
 Courses: Quantum Mechanics, Mathematical Methods in the Physical Sciences<br/>
