@@ -18,7 +18,7 @@ Courses: Quantum Mechanics, Mathematical Methods in the Physical Sciences<br/>
 
 ## Skills
 
-- **Programming Languages:**  Python, Java, C, R, JavaScript
+- **Programming Languages:**  Python, Java, C, R, Scala
 
 - **Data Analysis & Machine Learning:** NumPy, Pandas, Scipy, Scikit-Learn, Keras, Tensorflow, Pytorch <br/>
 
