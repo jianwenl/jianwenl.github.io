@@ -7,7 +7,7 @@ Courses: Algorithms, Advanced Database Concept, Machine Learning, Deep Learning 
 
 - Beijing Jiaotong University    Beijing, China <br/>**Ph.D. in Economics** _Dec 2017_<br/>
 Research Interest: Informational Choice, Macro Finance<br/>
-Thesis: [Thesis on effect of central bank communication to Social welfare](http://cdmd.cnki.com.cn/Article/CDMD-10004-1018082148.htm)<br/>
+Thesis: [Thesis on Effect of Central Bank Communication to Social Welfare](http://cdmd.cnki.com.cn/Article/CDMD-10004-1018082148.htm)<br/>
 
 - Simon Fraser University    Burnaby, BC, Canada <br/> **Visiting Ph.D. in Economics** _Sep 2016_<br/>
 Advisor: [Kenneth Kasa](http://www.sfu.ca/~kkasa/)
