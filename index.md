@@ -2,17 +2,17 @@
 
 ## Education
 
-- Indiana University Bloomington    Bloomington, IN, United States <br/>**M.S. in Data Science** _Aug 2020_ <br/>
+- Indiana University Bloomington    Bloomington, IN, United States <br/>**M.S. in Data Science** _May 2020_ <br/>
 Courses: Algorithms, Advanced Database Concept, Machine Learning, Deep Learning in NLP<br/>
 
-- Beijing Jiaotong University    Beijing, China <br/>**Ph.D. in Economics** _Dec 2017_<br/>
+- Beijing Jiaotong University    Beijing, China <br/>**Ph.D. in Economics** _Jan 2018_<br/>
 Research Interest: Informational Choice, Macro Finance<br/>
 Thesis: [Thesis on Effect of Central Bank Communication to Social Welfare](http://cdmd.cnki.com.cn/Article/CDMD-10004-1018082148.htm)<br/>
 
 - Simon Fraser University    Burnaby, BC, Canada <br/> **Visiting Ph.D. in Economics** _Sep 2016_<br/>
 Advisor: [Kenneth Kasa](http://www.sfu.ca/~kkasa/)
 
-- Beijing Jiaotong University    Beijing, China <br/> **B.S. in Science and Technology of Optical Information (Physics)** _Jul 2012_<br/>
+- Beijing Jiaotong University    Beijing, China <br/> **B.S. in Science and Technology of Optical Information (Physics)** _Jun 2012_<br/>
 Courses: Quantum Mechanics, Mathematical Methods in the Physical Sciences<br/>
 
 
