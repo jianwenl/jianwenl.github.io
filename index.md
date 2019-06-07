@@ -2,8 +2,8 @@
 
 ## Work Experience
 
-- Apple Inc.    Beijing city, China <br/>**Data Mining Intern** _Aug 2019_ <br/>
-Responsibility: Query understanding for Apple Maps<br/>
+- **Apple Inc.**    Beijing City, China <br/>**Data Mining Intern** _Aug 2019_ <br/>
+Responsibility: Query Understanding for Apple Maps<br/>
 
 
 ## Education
