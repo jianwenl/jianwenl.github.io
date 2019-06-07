@@ -1,5 +1,11 @@
 # Welcome to My Website
 
+## Work Experience
+
+- Apple Inc.    Beijing city, China <br/>**Data Mining Intern** _Aug 2019_ <br/>
+Responsibility: Query understanding for Apple Maps<br/>
+
+
 ## Education
 
 - Indiana University Bloomington    Bloomington, IN, United States <br/>**M.S. in Data Science** _May 2020_ <br/>
