@@ -3,7 +3,7 @@
 ## Work Experience
 
 - **Apple Inc.**    Beijing City, China <br/>Data Mining Intern _Aug 2019_ <br/>
-Maps Search<br/>
+Maps Search: Query Understanding<br/>
 
 
 ## Education
