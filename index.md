@@ -4,7 +4,6 @@
 
 - **Apple Inc.**    Beijing City, China <br/>Data Mining Intern _Aug 2019_ <br/>
 Maps Search<br/>
-Query Understanding<br/>
 
 
 ## Education
