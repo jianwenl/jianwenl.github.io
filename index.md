@@ -24,7 +24,7 @@ Courses: Quantum Mechanics, Mathematical Methods in the Physical Sciences<br/>
 
 ## Skills
 
-- **Programming Languages:**  Python, Java, C, R, Scala
+- **Programming Languages:**  Python, Java, R, Scala
 
 - **Data Analysis & Machine Learning:** NumPy, Pandas, Scipy, Scikit-Learn, Keras, Tensorflow, Pytorch <br/>
 
@@ -32,7 +32,7 @@ Courses: Quantum Mechanics, Mathematical Methods in the Physical Sciences<br/>
 
 - **Database:** MySQL, PostgreSQL, NoSQL (MongoDB, Neo4j)<br/>
 
-- **Techniques:** Linux, Git, Maven, Docker, Hadoop Ecosystem (Hadoop, HDFS, Apache Spark), A/B testing, D3.js, ggplot2, Tableau <br/>
+- **Techniques:** Linux, Git, Maven, Docker, Hadoop Ecosystem (Hadoop, HDFS, Apache Spark), A/B testing, D3.js, ELK  <br/>
 
 ## Project
 
