@@ -9,7 +9,7 @@ Maps Search: Query Understanding<br/>
 ## Education
 
 - Indiana University Bloomington    Bloomington, IN, United States <br/>**M.S. in Data Science** _May 2020_ <br/>
-Courses: Algorithms, Advanced Database Concept, Machine Learning, Deep Learning in NLP<br/>
+Courses: Algorithms, Advanced Database Concept, Search, Software Engineering, Machine Learning, Deep Learning in NLP<br/>
 
 - Beijing Jiaotong University    Beijing, China <br/>**Ph.D. in Economics** _Jan 2018_<br/>
 Research Interest: Informational Choice, Macro Finance<br/>
