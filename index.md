@@ -1,4 +1,4 @@
-# Welcome to My Website
+# Data Mining Intern at Apple | Data Science Grad at Indiana University | Seeking full-time roles starting May 2020
 
 ## Work Experience
 
