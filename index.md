@@ -2,7 +2,10 @@
 
 ## Work Experience
 
-- **Apple Inc.**    Beijing City, China <br/>Data Mining Intern _Aug 2019_ <br/>
+- **Amazon**    Seattle, United States <br/>SDE _Aug 2020_ <br/>
+TBD<br/>
+
+- **Apple**    Beijing City, China <br/>Data Mining Intern _Aug 2019_ <br/>
 Maps Search: Query Understanding<br/>
 
 
