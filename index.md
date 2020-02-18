@@ -2,10 +2,10 @@
 
 ## Work Experience
 
-- **Amazon**    Seattle, United States <br/>SDE _Aug 2020-_ <br/>
+- **Amazon**    Seattle, WA, United States <br/>SDE _Aug 2020-_ <br/>
 TBD<br/>
 
-- **Apple**    Beijing City, China <br/>Data Mining Intern _May 2019-Aug 2019_ <br/>
+- **Apple**    Beijing, China <br/>Data Mining Intern _May 2019-Aug 2019_ <br/>
 Maps Search: Query Understanding<br/>
 
 
@@ -54,6 +54,6 @@ Courses: Quantum Mechanics, Mathematical Methods in the Physical Sciences<br/>
 ### Contact
 
 [Github](https://github.com/jianwenl/)
-[Linkedin](https://www.linkedin.com/in/jianwen-liu-32541266/)
-[Email](mailto:jl147@iu.edu)
+[Linkedin](https://www.linkedin.com/in/jianwen-liu/)
+[Email](mailto:yaliallen@hotmail.com)
 
