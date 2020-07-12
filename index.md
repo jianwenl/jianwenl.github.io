@@ -3,7 +3,7 @@
 ## Work Experience
 
 - **Amazon**    Seattle, WA, United States <br/>SDE _Jul 2020-_ <br/>
-TBD<br/>
+Prime Video<br/>
 
 - **Apple**    Beijing, China <br/>Data Mining Intern _May 2019-Aug 2019_ <br/>
 Maps Search: Query Understanding<br/>
