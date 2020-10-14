@@ -22,15 +22,11 @@ Maps<br/>
 
 ## Skills
 
-- **Programming Languages:**  Python, Java, C/C++, Scala
-
-- **Data Analysis & Machine Learning:** NumPy, Pandas, Scipy, Scikit-Learn, Keras, Tensorflow, Pytorch <br/>
-
-- **Natural Language Processing:** NLTK, spaCy, Stanford CoreNLP <br/>
+- **Programming Languages:**  Python, Java, C/C++, JavaScript
 
 - **Database:** MySQL, PostgreSQL, NoSQL (MongoDB, Neo4j)<br/>
 
-- **Techniques:** Linux, Git, Maven, Docker, Hadoop Ecosystem (Hadoop, HDFS, Apache Spark), A/B testing, D3.js, ELK  <br/>
+- **Techniques:** Linux, Git, Maven, Docker, Hadoop Ecosystem (Hadoop, HDFS, Apache Spark), React.js, ELK  <br/>
 
 ## Project
 
