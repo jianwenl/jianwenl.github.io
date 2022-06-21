@@ -22,11 +22,13 @@ Maps<br/>
 
 ## Skills
 
-- **Programming Languages:**  Python, Java, C/C++, JavaScript
+- **Programming Languages:**  Kotlin, Java, Python, JavaScript
+
+- **Cache:** Redis, Memcached, Caffeine<br/>
 
 - **Database:** MySQL, PostgreSQL, NoSQL (MongoDB, Neo4j)<br/>
 
-- **Techniques:** Linux, Git, Maven, Docker, Hadoop Ecosystem (Hadoop, HDFS, Apache Spark), React.js, ELK  <br/>
+- **Techniques:** Linux, Git, Maven, Spring, Kafka, React.js, ELK  <br/>
 
 ## Project
 
