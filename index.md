@@ -2,7 +2,10 @@
 
 ## Work Experience
 
-- **Amazon**    Seattle, WA, United States <br/>SDE _Jul 2020-Present_ <br/>
+- **Amazon**    Seattle, WA, United States <br/>SDE _June 2025-Present_ <br/>
+Advertising<br/>
+
+- **Amazon**    Seattle, WA, United States <br/>SDE _July 2020-June 2025_ <br/>
 Prime Video<br/>
 
 - **Apple**    Beijing, China <br/>Data Mining Intern _May 2019-Aug 2019_ <br/>
