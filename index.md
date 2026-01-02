@@ -3,7 +3,7 @@
 ## Work Experience
 
 - **Amazon**    Seattle, WA, United States <br/>SDE _June 2025-Present_ <br/>
-Advertising<br/>
+Advertising: LLM / "cold start" problem<br/>
 
 - **Amazon**    Seattle, WA, United States <br/>SDE _July 2020-June 2025_ <br/>
 Prime Video<br/>
@@ -25,13 +25,13 @@ Maps<br/>
 
 ## Skills
 
-- **Programming Languages:**  Kotlin, Java, Python, JavaScript
+- **Programming Languages:**  Kotlin, Java, Python, TypeScript
 
 - **Cache:** Redis, Memcached, Caffeine<br/>
 
-- **Database:** MySQL, PostgreSQL, NoSQL (MongoDB, Neo4j)<br/>
+- **Database:** MySQL, PostgreSQL, DynamoDB<br/>
 
-- **Techniques:** Linux, Git, Maven, Spring, Kafka, React.js, ELK  <br/>
+- **Techniques:** Linux, Git, Spring, Kafka, React.js, ELK  <br/>
 
 ## Project
 
